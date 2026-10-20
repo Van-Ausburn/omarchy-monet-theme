@@ -1,0 +1,34 @@
+# Monet — Giverny and the Impressionist light (Water Lilies, Impression, Sunrise).
+# A soft dusk-over-the-pond background with pastel lilac, lily-pad green,
+# water-lily rose and pale gold.
+mode = "dark"
+
+accent = "#b9a3e3"              # wisteria lilac
+selection = "#3d4a63"
+muted = "#5b6577"
+
+background = "#222b35"          # pond at dusk
+dark_background = "#1b232c"
+darker_background = "#141b22"
+lighter_background = "#2f3a47"
+
+foreground = "#ece6f0"          # morning mist
+dark_foreground = "#8a93a6"
+light_foreground = "#d6d0e0"
+bright_foreground = "#f7f3fa"
+
+red = "#e88f9a"                 # water-lily rose
+yellow = "#ecd27a"              # pale sunlight gold
+orange = "#f0a878"              # Impression, Sunrise sun
+green = "#8fc49a"               # lily pads
+cyan = "#8cc8d0"                # reflections
+blue = "#87a8e0"                # Monet blue
+magenta = "#c9a0dc"             # wisteria
+brown = "#b08a68"               # poplar bark
+
+bright_red = "#f4adb5"
+bright_yellow = "#f5e3a3"
+bright_green = "#addbb6"
+bright_cyan = "#acdde3"
+bright_blue = "#a9c2ee"
+bright_magenta = "#dcbde9"
